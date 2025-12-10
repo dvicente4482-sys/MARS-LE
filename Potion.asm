@@ -1,10 +1,10 @@
 .data
     title: .asciiz "Potion Crafting\n\n"
-    step1: .asciiz "Step 1: Gathering ingredients...\n"
+    step1: .asciiz "Step 1: Gathering ingredients.\n"
     step2: .asciiz "\nStep 2: Mixing ingredients...\n"
-    step3: .asciiz "\nStep 3: Calculating potion power...\n"
-    step4: .asciiz "\nStep 4: Storing in inventory...\n"
-    step5: .asciiz "\nStep 5: Reading from inventory...\n"
+    step3: .asciiz "\nStep 3: Calculating potion power.\n"
+    step4: .asciiz "\nStep 4: Storing in inventory.\n"
+    step5: .asciiz "\nStep 5: Reading from inventory.\n"
     
     herbs: .asciiz "Herbs: "
     crystals: .asciiz "Magic crystals: "
